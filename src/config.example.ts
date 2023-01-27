@@ -1,4 +1,6 @@
-export default {
-  username: 'normalusername',
-  password: 'v3ryh@rdp@ssw0rd',
+export default {`yarn
+
+yarn start`
+  username: 'gjruddud123456',
+  password: 'm147896325',
 };
